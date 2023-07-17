@@ -9,7 +9,7 @@ body {
   background: #121214;
   display: grid;
   place-content: center;
-  font-family: 'Mulish', sans-serif;
+  font-family: "Mulish", sans-serif;
 }
 
 header h1 {
