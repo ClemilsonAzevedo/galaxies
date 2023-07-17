@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  padding: 72px 104px;
+  background: #121214;
+}
+
+main{
+  display: grid;
+  grid-template-columns: repeat(3, 370px);
+  gap: 40px 60px;
+  place-content: center;
+}
+
+.card{
+  background-color: #202024;
+  border: 2px solid #323238;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.card h2{
+  color: #E1E1E6;
+  font-weight: 900;
+  font-size: 36px;
+  padding: 24px 32px 0;
+}
+
+.card p{
+  font-size: 18px;
+  color: #c4c4cc;
+  font-weight: 600;
+  padding: 24px 32px 32px;
+}
