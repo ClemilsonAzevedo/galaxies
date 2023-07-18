@@ -19,7 +19,7 @@ Projecto exclusivo, para o aprendizado de algumas tecnologias WEB. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Galaxies" src=".github/Cover.png" width="100%">
+  <img alt="projeto Galaxies" src=".github\Cover.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,7 +36,7 @@ O Galaxies é uma página para a descrição de algumas galaxias existentes cien
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<[https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?type=design&node-id=136%3A546&mode=design&t=MazLfcFvTQET231X-1](https://www.figma.com/file/lYsJUCgK5aLVMLaBOIrVLI/Galaxies-%E2%80%A2-Projeto-Explorer-(Community)?type=design&node-id=115%3A3&mode=design&t=2gyUhU6tcZxIlPW6-1)>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<[https://www.figma.com/file/lYsJUCgK5aLVMLaBOIrVLI/Galaxies-%E2%80%A2-Projeto-Explorer-(Community)?type=design&node-id=0%3A1&mode=design&t=mu406SO2AP1bWwms-1](https://www.figma.com/file/lYsJUCgK5aLVMLaBOIrVLI/Galaxies-%E2%80%A2-Projeto-Explorer-(Community)?type=design&node-id=0%3A1&mode=design&t=mu406SO2AP1bWwms-1)>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
@@ -45,3 +45,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito por Clemilson Azevedo aluno da [Rockeatseat](https://www.rocketseat.com.br/).
+
+
